@@ -1,0 +1,20 @@
+{
+  "name": "cl-apartment-scraper",
+  "version": "0.1.0",
+  "license": "ISC",
+  "description": "scrape apartment rental data from craigslist.org",
+  "keywords": [
+    "craig's list",
+    "apartment"
+  ],
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "..."
+  },
+  "scripts": {
+    "dev": "node app.js",
+    "build": "node app.js"
+  },
+  "dependencies": {}
+}
